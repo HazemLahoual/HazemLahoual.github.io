@@ -21,9 +21,11 @@ redirect_from:
 ## Education
 
 * 10/2018 – Present
+
   Master of Science in Scientific Computing, Technische Universität Berlin, Berlin, Germany. [program](https://www.math.tu-berlin.de/studienfachberatung_mathematik/master/scientific_computing/)
 Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learning. 
 * 09/2013 – 09/2016
+
   Master’s Degree in Applied Mathematics and Modeling Engineering, Higher National School of Engineers of Tunis (ENSIT), Tunis, Tunisia.
 
 ## Experience
@@ -53,8 +55,10 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
  
  ## Skills
  * Background 
+ 
  Scientific Computing, Numerics of ODE/PDE, Optimization, Machine Learning (Bayesian Decision Theory, Dimensionality Reduction, Ensemble Methods, Kernel Methods, Gaussian processes, Deep Neural Networks).
-* Technical 
+* Technical
+
 Python (NumPy, SciPy, Scikit-learn, PyTorch, GPyTorch), C/C++, Git, MATLAB.
 
 ## Languages
