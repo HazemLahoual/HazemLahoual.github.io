@@ -13,9 +13,9 @@ redirect_from:
 
 [Education](../cv/#education) <br/>
 [Experience](../cv/#experience)<br/>
-[Conferences and Workshops](../cv/#Conferences and Workshops)<br/>
+[Workshops](../cv/#Workshops)<br/>
 [Skills](../cv/#Skills)<br/>
-[Languages](../cv/#Languages)
+[Languages](../cv/#Languages)<br/>
 [Interests](../cv/#Interests)<br/>
 
 
@@ -51,7 +51,7 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
   * Working on stability conditions for the convergence to the optimal solution.
   * Keywords : Neural networks, Ordinary differential equations, Optimization, MATLAB.
  
- ## Conferences and Workshops
+ ## Workshops
  
 * 09/2020/ Gaussian Process and Uncertainty Quantification Summer School, 2020 organized by the universities of Sheffield and Cambridge, UK.
  
