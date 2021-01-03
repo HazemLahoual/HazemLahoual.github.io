@@ -25,7 +25,7 @@ redirect_from:
 
   Master of Science in Scientific Computing, Technische Universität Berlin, Berlin, Germany. [program](https://www.math.tu-berlin.de/studienfachberatung_mathematik/master/scientific_computing/)
   
-Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learning. 
+  Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learning. 
 
 * 09/2013 – 09/2016
 
