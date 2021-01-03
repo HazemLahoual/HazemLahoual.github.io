@@ -50,11 +50,13 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
   * Modeling of linear optimization problems with a recurrent neural networks.
   * Working on stability conditions for the convergence to the optimal solution.
   * Keywords : Neural networks, Ordinary differential equations, Optimization, MATLAB.
+  
  
 ## Workshops
  
 * 09/2020/ Gaussian Process and Uncertainty Quantification Summer School, 2020 organized by the universities of Sheffield and Cambridge, UK.
- 
+
+
 ## Skills
  
  * Background 
@@ -64,12 +66,14 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
 
 Python (NumPy, SciPy, Scikit-learn, PyTorch, GPyTorch), C/C++, Git, MATLAB.
 
+
 ## Languages
 
 * Arabic: Native speaker.
 * English: Fluent
 * French: FLuent
 * German: intermediate
+
 
 ## Interests
  
