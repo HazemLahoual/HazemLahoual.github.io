@@ -51,11 +51,11 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
   * Working on stability conditions for the convergence to the optimal solution.
   * Keywords : Neural networks, Ordinary differential equations, Optimization, MATLAB.
  
- ## Workshops
+## Workshops
  
 * 09/2020/ Gaussian Process and Uncertainty Quantification Summer School, 2020 organized by the universities of Sheffield and Cambridge, UK.
  
- ## Skills
+## Skills
  
  * Background 
  
@@ -71,6 +71,6 @@ Python (NumPy, SciPy, Scikit-learn, PyTorch, GPyTorch), C/C++, Git, MATLAB.
 * French: FLuent
 * German: intermediate
 
- ## Interests
+## Interests
  
  Tennis, Ping-Pong, Running, Chess.
