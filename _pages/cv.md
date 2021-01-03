@@ -38,13 +38,13 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
   * Benchmarking of performance against surrogate methods and machine learning algorithms.
   * Keywords : Probabilistic Machine learning, Deep Gaussian Processes, Hybrid modeling, PyTorch
 
-* 03/2016 – 07/2016/ Undergraduate researcher, IUT Montreuil, Paris 8 University, Paris, France.
+* 03/2016 – 07/2016: Undergraduate researcher, IUT Montreuil, Paris 8 University, Paris, France.
   * Improving of an Image Search Engine using spatial features. 
   * Using topological methods for object detection.
   * Working on artificial intelligence algorithms to improve the segmentation and the annotation process.
   * Keywords : Image Search, Image Analysis, Spatial Features, MATLAB.
  
-* 07/2015 – 09/2015/ Undergraduate researcher, University of Tehran, Tehran, Iran.
+* 07/2015 – 09/2015: Undergraduate researcher, University of Tehran, Tehran, Iran.
   * Exchange student at the University of Tehran, Iran as part of IAESTE exchange program.
   * Modeling of linear optimization problems with a recurrent neural networks.
   * Working on stability conditions for the convergence to the optimal solution.
