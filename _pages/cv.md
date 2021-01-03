@@ -51,9 +51,11 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
   * Keywords : Neural networks, Ordinary differential equations, Optimization, MATLAB.
  
  ## Conferences and Workshops
+ 
 * 09/2020/ Gaussian Process and Uncertainty Quantification Summer School, 2020 organized by the universities of Sheffield and Cambridge, UK.
  
  ## Skills
+ 
  * Background 
  
  Scientific Computing, Numerics of ODE/PDE, Optimization, Machine Learning (Bayesian Decision Theory, Dimensionality Reduction, Ensemble Methods, Kernel Methods, Gaussian processes, Deep Neural Networks).
@@ -62,10 +64,12 @@ Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learni
 Python (NumPy, SciPy, Scikit-learn, PyTorch, GPyTorch), C/C++, Git, MATLAB.
 
 ## Languages
+
 * Arabic: Native speaker.
 * English: Fluent
 * French: FLuent
 * German: intermediate
 
  ## Interests
+ 
  Tennis, Ping-Pong, Running, Chess.
