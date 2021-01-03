@@ -14,7 +14,8 @@ redirect_from:
 [Education](../cv/#education) <br/>
 [Experience](../cv/#experience)<br/>
 [Conferences and Workshops](../cv/#Conferences and Workshops)<br/>
-[Skills](../cv/#skills)<br/>
+[Skills](../cv/#Skills)<br/>
+[Languages](../cv/#Languages)
 [Interests](../cv/#Interests)<br/>
 
 
