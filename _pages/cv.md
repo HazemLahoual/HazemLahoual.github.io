@@ -24,7 +24,9 @@ redirect_from:
 * 10/2018 – Present
 
   Master of Science in Scientific Computing, Technische Universität Berlin, Berlin, Germany. [program](https://www.math.tu-berlin.de/studienfachberatung_mathematik/master/scientific_computing/)
+  
 Focus: Scientific Computing, Numerical Mathematics, Optimization, Machine learning. 
+
 * 09/2013 – 09/2016
 
   Master’s Degree in Applied Mathematics and Modeling Engineering, Higher National School of Engineers of Tunis (ENSIT), Tunis, Tunisia.
