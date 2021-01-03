@@ -13,10 +13,10 @@ redirect_from:
 
 [Education](../cv/#education) <br/>
 [Experience](../cv/#experience)<br/>
-[Workshops](../cv/#Workshops)<br/>
-[Skills](../cv/#Skills)<br/>
-[Languages](../cv/#Languages)<br/>
-[Interests](../cv/#Interests)<br/>
+[Workshops](../cv/#workshops)<br/>
+[Skills](../cv/#skills)<br/>
+[Languages](../cv/#languages)<br/>
+[Interests](../cv/#interests)<br/>
 
 
 ## Education
