@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](https://hazemlahoual.github.io/files/CV_HazemLahoual.pdf)
-
 [Education](../cv/#education) <br/>
 [Experience](../cv/#experience)<br/>
 [Workshops](../cv/#workshops)<br/>
